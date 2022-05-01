@@ -1,0 +1,8 @@
+
+Project Title: New York City Taxi Trip Duration Prediction
+
+Student Id: 0241521
+
+Dataset name and URL:
+New York City Taxi Trip Duration
+https://www.kaggle.com/c/nyc-taxi-trip-duration/data
